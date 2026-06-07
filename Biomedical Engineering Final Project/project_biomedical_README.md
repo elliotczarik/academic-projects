@@ -1,15 +1,15 @@
 # Mechanical Characterisation of a Surgical Endo Pouch
 
-**Course:** Biomedical Engineering Minor — TU Delft  
+**Course:** BME Minor Projects at TU Delft  
 **Team:** Tony Euwals, Elliot Czarik, Elvira Zonneveld, Geert Wormgoor, Jibiao Zhang  
 **Supervised by:** Dr. Johann Rhemrev, Dr. Jim English, Prof. dr. John van den Dobbelsteen  
-**Date:** 2026
+**Date:** January 2026
 
 ---
 
 ## Overview
 
-During laparoscopic morcellation procedures (e.g. myomectomies, hysterectomies), tissue is broken into fragments inside a surgical endo pouch to prevent the spread of potentially malignant cells. If the pouch tears or ruptures during the procedure, containment is lost — with serious consequences for the patient. This project developed and executed a mechanical test battery to characterise the safety and durability of a newly designed endo pouch prototype across four critical phases of its use.
+During laparoscopic morcellation procedures (e.g. myomectomies, hysterectomies), tissue is broken into fragments inside a surgical endo pouch to prevent the spread of potentially malignant cells. If the pouch tears or ruptures during the procedure, containment is lost and this event can have serious consequences for the patient. This project developed and executed a mechanical test battery to characterise the safety and durability of a newly designed endo pouch prototype across four critical phases of its use.
 
 ## Research Questions
 
@@ -27,7 +27,7 @@ Four distinct tests were designed, each targeting a specific failure mode:
 | Puncture test | Tissue manipulation | Bag puncture from sharp instrument | ⚠️ Protocol designed; not executed (equipment/time) |
 | Burst test | CO₂ insufflation | Bag rupture from over-pressurisation | ⚠️ Protocol designed; not executed (equipment/time) |
 
-**Test rigs** were custom-designed in SolidWorks and fabricated from PMMA (extraction board) and 3D-printed ABS (insertion board), with trocar diameters of 8–15 mm and incision sizes of 10–24 mm. Chicken fillet with blue food dye was used as tissue phantom; forces were measured with a calibrated digital scale and converted via F = mg.
+**Test rigs** were custom-designed in SolidWorks and fabricated from PMMA (extraction board) and 3D-printed ABS (insertion board), with trocar diameters of 8–15 mm and incision sizes of 10–24 mm. Chicken fillet with blue food dye was used as tissue phantom; forces were measured with a calibrated digital scale and converted via F = mg, with g = 9.81 m/s^2.
 
 ## Key Results
 
@@ -61,7 +61,7 @@ Four distinct tests were designed, each targeting a specific failure mode:
 
 ## Limitations
 
-- Chicken fillet is considerably softer than clinical tissue (uterine fibroids, myomas) — forces may underestimate real-world requirements.
+- Chicken fillet is a bit softer than clinical tissue (uterine fibroids, myomas), forces may underestimate real-world requirements.
 - Manual bag rolling for insertion tests introduced operator-dependent variability.
 - Extraction test could not be performed by a single operator throughout, introducing additional measurement error.
 - Puncture and burst tests remain unexecuted; full mechanical safety characterisation requires further work.
