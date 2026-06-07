@@ -1,13 +1,13 @@
 # Estimating Supernova Contamination in Nuclear Transient Samples Using Spatial Offset Distributions
 
-**Course:** Statistics and Data Analysis (SDA) — Leiden University  
+**Course:** Statistics and Data Analysis at Leiden University  
 **Date:** May 2025
 
 ---
 
 ## Overview
 
-Wide-field surveys like the Zwicky Transient Facility (ZTF) detect thousands of extragalactic transients per year. Identifying rare tidal disruption events (TDEs) — where a star is shredded by a supermassive black hole — often relies on selecting sources that appear close to the centres of their host galaxies ("nuclear transients"). However, supernovae (SNe) can also appear near galactic centres due to projection effects or central star formation, contaminating TDE samples and biasing population studies.
+Wide-field surveys like the Zwicky Transient Facility (ZTF) detect thousands of extragalactic transients per year. Identifying rare tidal disruption events (TDEs), which is where a star is shredded by a supermassive black hole, often relies on selecting sources that appear close to the centres of their host galaxies ("nuclear transients"). However, supernovae (SNe) can also appear near galactic centres due to projection effects or central star formation, contaminating TDE samples and biasing population studies.
 
 This project builds a statistical mixture model to quantify what fraction of unclassified ZTF nuclear transients are likely supernovae, using spatial offset distributions alone.
 
@@ -50,11 +50,11 @@ Extended model simultaneously fitting both f_nuc and σₓᵧ as free parameters
 | Joint MLE (σ free) | 0.556 (CI: 0.277–0.856) | 0.444 (CI: 0.193–0.691) |
 
 - The 90% confidence radius r₉₀ = 0.2806 arcsec; within this radius, ~51% of unknowns are estimated to be SNe (fixed model), confirming that even strict nuclear selection cannot eliminate SN contamination.
-- The joint fit yields broader confidence intervals, reflecting realistic variability in astrometric precision — and reinforces the conclusion that spatial offset alone is insufficient for clean TDE selection.
+- The joint fit yields broader confidence intervals, reflecting realistic variability in astrometric precision. It reinforces the conclusion that spatial offset alone is insufficient for clean TDE selection.
 
 ## Conclusions
 
-Spatial offset is not sufficient as a sole criterion for distinguishing TDEs from supernovae in nuclear transient samples. Future surveys and classification pipelines should incorporate additional features — light curve shape, colour evolution, host galaxy properties, and multi-wavelength data — alongside machine learning methods to achieve higher sample purity.
+Spatial offset is not sufficient as a sole criterion for distinguishing TDEs from supernovae in nuclear transient samples. Future surveys and classification pipelines should incorporate additional features like light curve shape, colour evolution, host galaxy properties and/or multi-wavelength data, alongside machine learning methods to achieve higher sample purity.
 
 ## Tools & Libraries
 
