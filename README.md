@@ -1,4 +1,5 @@
-# Academic Portfolio — Elliot Czarik
+# Academic Portfolio 
+# Elliot Czarik
 
 BSc Astronomy student at Leiden University, with a Minor in Biomedical Engineering at TU Delft. This repository collects the reports, code, and data analysis work from my undergraduate research projects, spanning exoplanet characterisation, stellar photometry, and biomedical instrumentation.
 
@@ -8,7 +9,7 @@ BSc Astronomy student at Leiden University, with a Minor in Biomedical Engineeri
 
 ## Projects
 
-### Astronomy & Astrophysics — Leiden University
+### Astronomy & Astrophysics at Leiden University
 
 | Project | Description | Tools | Report | Code |
 |---|---|---|---|---|
@@ -17,7 +18,7 @@ BSc Astronomy student at Leiden University, with a Minor in Biomedical Engineeri
 | [Characterisation of the Hot Jupiter TOI-163b](#) | Team project combining space-based TESS photometric transit data with ground-based FEROS radial velocity measurements to constrain the bulk density and orbital parameters of TOI-163b. Transit modelling performed with BATMAN; RV fitting with Juliet. Confirmed the planet as an inflated hot Jupiter (ρ = 0.62 ± 0.04 g/cm³, P = 4.22 ± 0.02 days). | Python, BATMAN, Juliet, MCMC | [Poster](#) | [Code](#) |
 | [Estimating Supernova Contamination in Nuclear Transient Samples](#) | Statistical analysis of ZTF spatial offset data (1,712 transients across AGN, SNe, and unknowns) to quantify supernova contamination in nuclear transient samples. Built a mixture model combining a Gaussian nuclear offset model (MLE-fitted) and Gaussian KDE for SNe, finding ~75% of unclassified nuclear transients are likely supernovae. Joint MLE fit simultaneously constrained the nuclear fraction and astrometric uncertainty. | Python, NumPy, SciPy, KDE, Bootstrap | [Report](#) | [Code](#) |
 
-### Biomedical Engineering Minor — TU Delft
+### Biomedical Engineering Minor at TU Delft
 
 | Project | Description | Tools | Report | Code |
 |---|---|---|---|---|
@@ -27,13 +28,13 @@ BSc Astronomy student at Leiden University, with a Minor in Biomedical Engineeri
 
 ## Skills Demonstrated
 
-**Data Analysis & Statistics** — χ² minimisation, Bayesian inference, MCMC sampling, maximum likelihood estimation, kernel density estimation, bootstrap confidence intervals, hypothesis testing (KS tests), signal-to-noise analysis, error propagation
+**Data Analysis & Statistics:** χ² minimisation, Bayesian inference, MCMC sampling, maximum likelihood estimation, kernel density estimation, bootstrap confidence intervals, hypothesis testing (KS tests), signal-to-noise analysis, error propagation
 
-**Astronomical Techniques** — Aperture photometry, radial velocity analysis, transit photometry, spectroscopic parallax, light curve modelling, mixture modelling for transient classification
+**Astronomical Techniques:** Aperture photometry, radial velocity analysis, transit photometry, spectroscopic parallax, light curve modelling, mixture modelling for transient classification
 
-**Biomedical Engineering** — Mechanical test design, SolidWorks CAD, 3D printing (ABS/PMMA), force measurement, medical device safety characterisation
+**Biomedical Engineering:** Mechanical test design, SolidWorks CAD, 3D printing (ABS/PMMA), force measurement, medical device safety characterisation
 
-**Programming** — Python (NumPy, SciPy, Matplotlib, Astropy, emcee, BATMAN, Juliet), LaTeX, SolidWorks
+**Programming:** Python (NumPy, SciPy, Matplotlib, Astropy, emcee, BATMAN, Juliet), LaTeX, SolidWorks
 
 ---
 
@@ -51,6 +52,7 @@ academic-projects/
 │   └── code/
 ├── toi-163b-characterisation/
 │   ├── README.md
+│   ├── proposal.pdf
 │   ├── poster.pdf
 │   └── code/
 ├── supernova-contamination-nuclear-transients/
