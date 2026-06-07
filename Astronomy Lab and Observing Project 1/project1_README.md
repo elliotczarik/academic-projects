@@ -1,6 +1,6 @@
 # UBV Photometric Analysis of Stellar Populations
 
-**Course:** Astronomy Lab & Observing Project 1 — Leiden University  
+**Course:** Astronomy Lab & Observing Project at Leiden University  
 **Date:** October 2025
 
 ---
