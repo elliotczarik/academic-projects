@@ -1,7 +1,7 @@
 # Characterisation of the Hot Jupiter TOI-163b
 
-**Course:** Astronomy Lab & Observing Project 3 — Leiden University  
-**Team:** Thijn Kriesels, Tim Dinh, Reinier Barendregt, Muhamed Hameed, Elliot Czarik, Yentl Fonteyn  
+**Course:** Astronomy Lab & Observing Project at Leiden University  
+**Team:** Thijn Kriesels, Elliot Czarik, Tim Dinh, Reinier Barendregt, Muhamed Hameed, Yentl Fonteyn  
 **Date:** May 2026
 
 ---
