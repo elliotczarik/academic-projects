@@ -38,32 +38,4 @@ BSc Astronomy student at Leiden University, with a Minor in Biomedical Engineeri
 
 ---
 
-## Repository Structure
-
-```
-academic-projects/
-├── photometric-analysis-stellar-populations/
-│   ├── README.md
-│   ├── report.pdf
-│   └── code/
-├── radial-velocity-51-pegasi-b/
-│   ├── README.md
-│   ├── report.pdf
-│   └── code/
-├── toi-163b-characterisation/
-│   ├── README.md
-│   ├── proposal.pdf
-│   ├── poster.pdf
-│   └── code/
-├── supernova-contamination-nuclear-transients/
-│   ├── README.md
-│   ├── report.pdf
-│   └── code/
-└── surgical-endo-pouch-mechanical-characterisation/
-    ├── README.md
-    └── report.pdf
-```
-
----
-
 *All reports and code are shared for educational purposes. Please cite appropriately if you build on this work.*
