@@ -1,13 +1,13 @@
 # Radial Velocity Characterisation of 51 Pegasi b
 
-**Course:** Astronomy Lab & Observing Project 2 — Leiden University  
+**Course:** Astronomy Lab & Observing Project at Leiden University  
 **Date:** January 2026
 
 ---
 
 ## Overview
 
-An independent re-analysis of the original Mayor & Queloz (1995) radial velocity dataset for 51 Pegasi — the star hosting the first confirmed exoplanet around a main-sequence star, a discovery that earned the 2019 Nobel Prize in Physics. Using two complementary fitting approaches, I recovered the orbital parameters and minimum planetary mass of 51 Peg b from scratch.
+An independent re-analysis of the original Mayor & Queloz (1995) radial velocity dataset for 51 Pegasi. 51 Pegasi is the star hosting the first confirmed exoplanet around a main-sequence star, a discovery that earned the 2019 Nobel Prize in Physics. Using two complementary fitting approaches, I recovered the orbital parameters and minimum planetary mass of 51 Peg b from scratch.
 
 ## Scientific Questions
 
